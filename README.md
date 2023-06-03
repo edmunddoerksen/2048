@@ -3,7 +3,7 @@ Java implementation of 2048 game
 
 ## Instructions
 
-Setup: StdDraw class (https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html#square-double-double-double-) must be added to the classpath.
+Setup: StdDraw (https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html#square-double-double-double-) must be added to the classpath.
 
 Execution: java Game
 
